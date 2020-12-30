@@ -8,10 +8,10 @@ import pandas as pd
 from preprocessing_nlp import TextPreprocessing, ForClustering, VocaRepository, CS665_comparison
 
 # 아래 있는 것들은 not 프리미엄 API
-consumer_key = "tzAixXO8G8bB0Ri6Dk9Azg7Ky"
-consumer_secret = "IuwD2wSg9LdqHVhAbkFd5dQS4c1MmMe3Gf8Ji6gpypDyBhwUhj"
-access_token = "1318800194335461381-n1F6SysncjAy39gschdxsBC5O7ZUVF"
-access_token_secret = "0Njslg7lk5H9G5sstuvOrxkwTEVhUKEjkD8aUoxwCUjxI"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 auto = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auto.set_access_token(access_token, access_token_secret)
