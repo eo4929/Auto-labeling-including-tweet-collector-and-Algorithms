@@ -5,5 +5,5 @@ For my research
 
 ```preprocessing_nlp.py``` contains NLP preprocessor and label extractor for the collected tweets
 
-related to a work: Park, Dae-Young, and In-Young Ko. "Auto-labeling of sensor data using social media messages: a case study for a smart city." Proceedings of the 36th Annual ACM Symposium on Applied Computing. 2021.
+Related to a work: Park, Dae-Young, and In-Young Ko. "Auto-labeling of sensor data using social media messages: a case study for a smart city." Proceedings of the 36th Annual ACM Symposium on Applied Computing. 2021.
 
